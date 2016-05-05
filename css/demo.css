@@ -54,6 +54,10 @@ a:hover, a:focus {
     color: #53BEEA;
 }
 
+.container {
+    padding-bottom: 50px;
+}
+
 .demo-drawings a {
 	text-decoration: none;
 	color: rgba(255,255,255,0.7);
